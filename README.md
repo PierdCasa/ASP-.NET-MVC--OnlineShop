@@ -162,9 +162,11 @@ dotnet run
 Implementarea a fost facuta folosind Python, BeautifulSoup si Regex. 
 - Pe scurt , ii dat link-ul unui pagini de la Emag si acesta iti returneaza toate produsele in formatul JSON corespunzator proiectului.
 
-##Dificultati intalnite:
+## Dificultati intalnite:
 
-##Cum arata ?
+## Cum arata ?
+- Landing Page utilizator nelogat (Vizitator)
+  ![Landing Page](docs_github/Screenshot from 2026-01-07 04-01-38.png)
 
 
 

@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OnlineShop
+build_property.RootNamespace = OnlineShop
+build_property.ProjectDir = /home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Qcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Admin/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Admin/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Admin/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ3JlYXRlUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Admin/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRWRpdENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Admin/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRWRpdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Admin/OrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vT3JkZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Admin/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Admin/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Admin/Reviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUmV2aWV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Admin/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Cart/OrderConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9PcmRlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Collaborator/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sbGFib3JhdG9yL0NyZWF0ZVByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Collaborator/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sbGFib3JhdG9yL0Rhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Collaborator/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sbGFib3JhdG9yL0VkaXRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Collaborator/MyProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sbGFib3JhdG9yL015UHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Shared/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL05vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Wishlist/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lzaGxpc3QvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f11yq2fz9h

@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/obj/Debug/net9.0/scopedcss/projectbundle/OnlineShop.bundle.scp.css",
+      "PackagePath": "staticwebassets/OnlineShop.jpby16gikv.bundle.scp.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/images/products/0568b5cc-8a87-43dc-8ab7-88607f0dd781.jpg",
+      "PackagePath": "staticwebassets/images/products/0568b5cc-8a87-43dc-8ab7-88607f0dd781.jpg"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/images/products/47d7aeeb-fd1c-49c0-8776-f374a771e4eb.jpeg",
+      "PackagePath": "staticwebassets/images/products/47d7aeeb-fd1c-49c0-8776-f374a771e4eb.jpeg"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/images/products/b882d0fb-fcdb-4b07-8b2e-065c1de274b5.png",
+      "PackagePath": "staticwebassets/images/products/b882d0fb-fcdb-4b07-8b2e-065c1de274b5.png"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/images/products/edc3d20d-d296-40f8-9248-c810738de3a2.jpg",
+      "PackagePath": "staticwebassets/images/products/edc3d20d-d296-40f8-9248-c810738de3a2.jpg"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/images/products/f93509a2-4a2b-408f-a678-d2c66cd20bd9.jpeg",
+      "PackagePath": "staticwebassets/images/products/f93509a2-4a2b-408f-a678-d2c66cd20bd9.jpeg"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Id": "/home/mario/Downloads/OnlineShopFinal4.0/OnlineShopFinal2.0/OnlineShop/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.OnlineShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.OnlineShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.OnlineShop.props",
+      "PackagePath": "build\\OnlineShop.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.OnlineShop.props",
+      "PackagePath": "buildMultiTargeting\\OnlineShop.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.OnlineShop.props",
+      "PackagePath": "buildTransitive\\OnlineShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

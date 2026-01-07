@@ -1,5 +1,5 @@
 # Proiect ASP .NET MVC 9.0 — OnlineShop "Stario"               + WebScraper Emag
-Un proiect in care am implementat lucrand in echipa  o aplicatie web care implementeaza un magazin online . Pentru baza de date am folosit MySql , impreuna cu un fisier sql de backup (care contine baza de date propriu zisa) + MySqlDump .
+Un proiect in care am implementat lucrand in echipa  o aplicatie web cu functionalitatea de magazin online . Pentru baza de date am folosit MySql , impreuna cu un fisier sql de backup (care contine baza de date propriu zisa) + MySqlDump .
 
 ## Functionalitati :
 Cerintele minime : 

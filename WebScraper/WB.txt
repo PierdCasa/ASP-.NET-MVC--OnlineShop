@@ -1,0 +1,604 @@
+{
+  "Products": [
+    {
+      "SeedId": "laptop-gaming-msi-cyborg-15-b13wekg-cu-p-137a29",
+      "Title": "Laptop Gaming MSI Cyborg 15 B13WEKG cu procesor Intel\u00ae Core\u2122 i7-13620H pana la 4.90 GHz",
+      "Description": "15.6\", Full HD, 144Hz, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050 8GB, Free DOS",
+      "Price": 4899.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/108636/108635681/images/res_e71c879a23668b1784b17a6c1b0c522a.jpg"
+    },
+    {
+      "SeedId": "laptop-apple-macbook-air-13-a17856",
+      "Title": "Laptop Apple MacBook Air 13\"",
+      "Description": "cu procesor Apple M4, 10 nuclee CPU si 8 nuclee GPU, 16GB RAM, 256GB, Starlight, Tastatura Internationala, Manual RO",
+      "Price": 5179.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/88283/88282967/images/res_ae94cd528e529912010f371041184b04.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-slim-3-15iru8-cu-p-28bc4b",
+      "Title": "Laptop Lenovo IdeaPad Slim 3 15IRU8 cu procesor Intel\u00ae Processor U300 pana la 4.4GHz",
+      "Description": "15.6\" Full HD, 4GB LPDDR5, 128GB SSD, Intel\u00ae UHD Graphics, Windows 11 Home in S mode, Abyss Blue",
+      "Price": 1499.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/98934/98933785/images/res_9d969b81c838fad133c1d13b1c5a30b0.png"
+    },
+    {
+      "SeedId": "laptop-asus-vivobook-16-m1605ya-cu-proce-07f782",
+      "Title": "Laptop ASUS Vivobook 16 M1605YA cu procesor AMD Ryzen\u2122 5 7430U pana la 4.3GHz",
+      "Description": "16'', WUXGA, IPS, 16GB DDR4 RAM, 512GB SSD, AMD Radeon\u2122 Graphics, No OS, Indie Black",
+      "Price": 2499.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/69097/69096368/images/res_b41efede40fa49a275c5f4c885558226.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-slim-3-15ian8-cu-p-bcc870",
+      "Title": "Laptop Lenovo IdeaPad Slim 3 15IAN8 cu procesor Intel\u00ae N100 pana la 3.4GHz",
+      "Description": "15.6\" Full HD, 4GB LPDDR5 RAM, 256GB SSD, Intel UHD Graphics, No OS, Arctic Grey",
+      "Price": 1099.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/107426/107425183/images/res_99cb2ce684ff3a78aedf71af3fa4d65a.jpg"
+    },
+    {
+      "SeedId": "laptop-asus-vivobook-15-m1502ya-cu-proce-10d306",
+      "Title": "Laptop ASUS Vivobook 15 M1502YA cu procesor AMD Ryzen\u2122 7 5825U pana la 4.5GHz",
+      "Description": "15.6'', Full HD, IPS, 16GB DDR4 RAM, 512GB SSD, AMD Radeon\u2122 Graphics, No OS, Quiet Blue",
+      "Price": 2399.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/91570/91569611/images/res_e3a32d5cc2f507039eb2fe228d73e055.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-v15-g4-amn-cu-procesor-amd-1136e8",
+      "Title": "Laptop Lenovo V15 G4 AMN cu procesor AMD Ryzen\u2122 5 7520U pana la 4.30 GHz",
+      "Description": "15.6\", Full HD, 8GB DDR5, 256GB SSD, AMD Radeon\u2122 610M Graphics, No OS, Business Black",
+      "Price": 3146.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/57979/57978332/images/res_669bb9446d40475f5c867e9516ccad2a.jpg"
+    },
+    {
+      "SeedId": "laptop-gaming-lenovo-legion-5-15iax10-cu-ee8074",
+      "Title": "Laptop Gaming Lenovo Legion 5 15IAX10 cu procesor Intel\u00ae Core\u2122 Ultra 9 275HX pana la 5.4GHz",
+      "Description": "15.1\" WQXGA, OLED, 165Hz, 32GB DDR5 RAM, 1TB SSD, NVIDIA\u00ae GeForce RTX\u2122 5070 8GB GDDR7, No OS, Eclipse Black, 3y on-site Premium Care",
+      "Price": 9449.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/97173/97172781/images/res_867f44f0998ab3ca549ed21edfd2dbe4.jpg"
+    },
+    {
+      "SeedId": "laptop-business-dell-pro-15-essential-cu-bba9d6",
+      "Title": "Laptop Business Dell Pro 15 Essential cu procesor Intel Core i7-1355U",
+      "Description": "15.6\", Full HD, 120Hz, 16GB RAM, 512GB SSD, Windows 11 Pro",
+      "Price": 3198.89,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/112361/112360234/images/res_3f7b27af6f87ee94dd953eb969368e1e.jpg"
+    },
+    {
+      "SeedId": "laptop-gaming-acer-nitro-v-15-anv155254c-2fce34",
+      "Title": "Laptop Gaming Acer Nitro V 15 ANV15-52-54CB cu procesor Intel\u00ae Core\u2122 i5-13420H pana la 4.7GHz",
+      "Description": "15.6\" Full HD, IPS, 165Hz, 16GB DDR4 RAM, 1TB SSD. NVIDIA\u00ae GeForce RTX\u2122 5050 8GB GDDR7, No OS, Obsidian Black",
+      "Price": 4899.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/100988/100987647/images/res_fdf66a9f36cc31e2dbe0cfcb6157cb0c.jpg"
+    },
+    {
+      "SeedId": "laptop-apple-macbook-pro-14-cu-procesor--20e786",
+      "Title": "Laptop Apple MacBook Pro 14\" cu procesor Apple M5",
+      "Description": "10 nuclee CPU si 10 nuclee GPU, 24GB RAM, 1TB SSD, Space Black, Tastatura Internationala, Manual RO",
+      "Price": 11799.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/106490/106489167/images/res_f1247cef6fa1fdfb6e29df8d97e4153f.jpg"
+    },
+    {
+      "SeedId": "laptop-gaming-asus-rog-strix-g18-g814pm--303d93",
+      "Title": "Laptop Gaming ASUS ROG Strix G18 G814PM cu procesor AMD Ryzen\u2122 9 8940HX pana la 5.3GHz",
+      "Description": "18'', Full HD+, WUXGA, 144Hz, IPS, 32GB DDR5 RAM, 1TB SSD, NVIDIA\u00ae GeForce RTX\u2122 5060 8GB GDDR7, No OS, Eclipse Gray",
+      "Price": 9499.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/100742/100741583/images/res_a7c006605443b4c8845f1d76bba290f4.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-slim-5-16arp10-cu--7a70fe",
+      "Title": "Laptop Lenovo IdeaPad Slim 5 16ARP10 cu procesor AMD Ryzen\u2122 5 7535HS pana 4.55GHz",
+      "Description": "16\" WUXGA, IPS, 16GB DDR5 RAM, 512GB SSD, AMD Radeon\u2122 660M Graphics, No OS, Luna Grey",
+      "Price": 2749.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/97173/97172811/images/res_98f9883d1a009616051d7b1953fb0d23.png"
+    },
+    {
+      "SeedId": "laptop-asus-expertbook-p1-p1503cva-cu-pr-7dfd8b",
+      "Title": "Laptop ASUS ExpertBook P1 P1503CVA cu procesor Intel\u00ae Core\u2122 i7-13700H pana la 5.0GHz",
+      "Description": "15.6'', Full HD, 16GB DDR5 RAM, 512GB SSD, Intel\u00ae UHD Graphics, No OS, Misty Grey",
+      "Price": 6050.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/83202/83201453/images/res_2f12ba2496188e09ce9283043b440cdd.jpg"
+    },
+    {
+      "SeedId": "laptop-gaming-hp-victus-15fa1033nn-cu-pr-0756fb",
+      "Title": "Laptop Gaming HP VICTUS 15-fa1033nn cu procesor Intel\u00ae Core\u2122 i5-12500H pana la 4.5GHz",
+      "Description": "15.6'', Full HD, IPS, 16GB DDR4, 512GB SSD, NVIDIA\u00ae GeForce RTX\u2122 4060 8GB GDDR6, Free DOS, Ceramic White",
+      "Price": 4699.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/69250/69249957/images/res_16d6348597e3c95aa4bb4fd08c5c93b9.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-slim-3-15iah8-cu-p-267c17",
+      "Title": "Laptop Lenovo IdeaPad Slim 3 15IAH8 cu procesor Intel\u00ae Core\u2122 i5-12450H pana la 4.4 GHz",
+      "Description": "15.6\", Full HD, IPS, 16GB, 1TB SSD, Intel\u00ae UHD Graphics, No OS, Arctic Grey",
+      "Price": 3298.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/60900/60899658/images/res_368b54f11b1ab1396336bf7ba5e7a50f.jpg"
+    },
+    {
+      "SeedId": "laptop-gaming-lenovo-legion-5-15irx10-cu-603d6e",
+      "Title": "Laptop Gaming Lenovo Legion 5 15IRX10 cu procesor Intel\u00ae Core i7-13650HX pana la 4.9GHz",
+      "Description": "15.1\" WQXGA, OLED, 165Hz, 16GB DDR5, 1TB SSD, NVIDIA\u00ae GeForce RTX\u2122 5050 8GB GDDR7, NO OS, Eclipse Black, 3y on-site Premium Care",
+      "Price": 5799.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/95386/95385059/images/res_07dba8c97424b9725c70b46c29236d37.jpg"
+    },
+    {
+      "SeedId": "laptop-apple-macbook-air-13-986abf",
+      "Title": "Laptop Apple MacBook Air 13\"",
+      "Description": "cu procesor Apple M4, 10 nuclee CPU si 10 nuclee GPU, 16GB RAM, 512GB, Sky Blue, Tastatura Internationala, Manual RO",
+      "Price": 6299.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/88283/88282976/images/res_5c960c1dd00b776f0a71c8673e11eae5.jpg"
+    },
+    {
+      "SeedId": "laptop-asus-vivobook-17-x1704vaau056mxm--0c811b",
+      "Title": "Laptop ASUS VivoBook 17 X1704VA-AU056MXM cu procesor Intel\u00ae Core\u2122 i7-1355U pana la 5.0 GHz",
+      "Description": "17.3\", Full HD, IPS, 24GB, 1TB SSD, Intel\u00ae Iris Xe Graphics, No, OS, Quiet Blue",
+      "Price": 6292.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/82519/82518509/images/res_92511ec36c994fbc302e49c811797efa.jpg"
+    },
+    {
+      "SeedId": "laptop-gaming-asus-asus-tuf-a15-fa506ncg-3f614d",
+      "Title": "Laptop Gaming ASUS ASUS TUF A15 FA506NCG cu procesor AMD Ryzen\u2122 7 7445HS pana la 4.7GHz",
+      "Description": "15.6'', Full HD, IPS, 144Hz, 16GB DDR5 RAM, 512GB SSD, NVIDIA\u00ae GeForce RTX\u2122 3050 4GB GDDR6, No OS, Graphite Black",
+      "Price": 5383.29,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/102548/102547107/images/res_a0dc6976450cb2a461d1ff1a440ab85a.jpg"
+    },
+    {
+      "SeedId": "laptop-asus-vivobook-15-x1502vabq548mxm-c53acd",
+      "Title": "Laptop ASUS Vivobook 15 X1502VA-BQ548MXM",
+      "Description": "Intel Core i7-13620H, 15.6 inch, RAM 32GB DDR4, SSD 1TB, Intel UHD Graphics, No OS, Quiet Blue",
+      "Price": 5808.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/89284/89283608/images/res_bf85747a90f3f309123218420a8b12a5.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-thinkbook-16-g6-irl-cu-pro-f69142",
+      "Title": "Laptop Lenovo ThinkBook 16 G6 IRL cu procesor Intel\u00ae Core\u2122 i5-1335U pana la 4.6 GHz",
+      "Description": "16\", WUXGA, IPS, 16GB, 1TB SSD, Intel UHD Graphics, No OS, Arctic Grey, 3Y Courier or Carry-in upgrade",
+      "Price": 6776.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/62857/62856992/images/res_ed638848ee55e07a7da30b230c187b3b.jpg"
+    },
+    {
+      "SeedId": "laptop-asus-vivobook-15-x1504va-cu-proce-f49fc5",
+      "Title": "Laptop ASUS Vivobook 15 X1504VA cu procesor Intel\u00ae Core\u2122 5 120U pana la 5.0GHz",
+      "Description": "15.6'', Full HD, IPS, 16GB DDR4 RAM, 512GB SSD, Intel\u00ae Graphics, No OS, Quiet Blue",
+      "Price": 2099.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/100907/100906744/images/res_533d9ba1da028d7fd1f11f74acde76a3.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-v15-g3-iap-cu-procesor-int-54c638",
+      "Title": "Laptop Lenovo V15 G3 IAP cu procesor Intel\u00ae Core\u2122 i3-1215U pana la 4.4 GHz",
+      "Description": "15.6\", Full HD, 8GB, 256GB SSD, Intel\u00ae UHD Graphics, No OS, Business Black, 3y Courier or Carry-in",
+      "Price": 2420.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/52746/52745309/images/res_b1bce11fff3c37e88c764683ec015542.jpg"
+    },
+    {
+      "SeedId": "laptop-asus-vivobook-16-x1605va-with-pro-189732",
+      "Title": "Laptop ASUS Vivobook 16 X1605VA with processor Intel\u00ae Core\u2122 i7-13700H pana la 5.0GHz",
+      "Description": "16'', WUXGA, IPS, 16GB DDR4, 512GB SSD, Intel Iris X\u1d49 Graphics, No OS, Indie Black",
+      "Price": 5808.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/56878/56877967/images/res_ced8661944016dc6be955f602160b7b8.jpg"
+    },
+    {
+      "SeedId": "laptop-gaming-msi-thin-15-b12ve-cu-proce-d6bfbf",
+      "Title": "Laptop Gaming MSI Thin 15 B12VE cu procesor Intel\u00ae Core\u2122 i5-12450H pana la 4.4GHz",
+      "Description": "15.6'', IPS, Full HD, 144Hz, 16GB DDR4 RAM, 1TB SSD, NVIDIA GeForce RTX 4050 6GB GDDR6, No OS, Cosmos Gray",
+      "Price": 3999.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/75347/75346923/images/res_c2168b82a7bd9ab0ac2ca1645b8b9160.jpg"
+    },
+    {
+      "SeedId": "laptop-gaming-lenovo-legion-5-15ahp10-cu-e61d66",
+      "Title": "Laptop Gaming Lenovo Legion 5 15AHP10 cu procesor AMD Ryzen\u2122 7 260 pana la 5.1GHz",
+      "Description": "15.1'', WQXGA , OLED, 24GB DDR5, 1TB SSD, NVIDIA\u00ae GeForce RTX\u2122 5050 8GB GDDR7, No OS, Eclipse Black, 3y on-site Premium Care",
+      "Price": 6399.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/97173/97172778/images/res_fafd0073e6f06f5f7c43e265a104283d.jpg"
+    },
+    {
+      "SeedId": "laptop-acer-aspire-lite-15-al1572p595y-c-bff1d3",
+      "Title": "Laptop Acer Aspire Lite 15 AL15-72P-595Y cu procesor Intel\u00ae Core\u2122 i5-13500H pana la 4.70 GHz",
+      "Description": "15,6\" Full HD, IPS, 16GB DDR5 RAM, 512GB SSD, Intel\u00ae UHD Graphics, No OS, Pure Silver",
+      "Price": 2399.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/100988/100987646/images/res_a608b3748df21c8a5ffec49eda0e24f8.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-slim-3-15ahp10-cu--dfc6c9",
+      "Title": "Laptop Lenovo IdeaPad Slim 3 15AHP10 cu procesor AMD Ryzen\u2122 7 8840HS pana la 5.1GHz",
+      "Description": "15.3\" WUXGA, IPS, 16GB DDR5 RAM, 512GB SSD, AMD Radeon\u2122 780M, No OS, Luna Grey, Aluminiu",
+      "Price": 2699.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/92504/92503753/images/res_6e55c9b6aa214d68b9a3c5252baeb122.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-5-2in1-16akp10-cu--1ad198",
+      "Title": "Laptop Lenovo IdeaPad 5 2-in-1 16AKP10 cu procesor AMD Ryzen\u2122 AI 7 350 pana la 5.0GHz",
+      "Description": "16\" WUXGA, IPS, Touch, 16GB LPDDR5x RAM, 1TB SSD, AMD Radeon\u2122 860M Graphics, Windows\u00ae 11 Home, Cosmic Blue",
+      "Price": 4999.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/92844/92843193/images/res_60948521d031539b846699d5bedf3d34.jpg"
+    },
+    {
+      "SeedId": "laptop-hp-15fc0031nq-cu-procesor-amd-ryz-b8c6ad",
+      "Title": "Laptop HP 15-fc0031nq cu procesor AMD Ryzen\u2122 3 7320U pana la 4.10 GHz",
+      "Description": "15.6\", Full HD, 8GB LPDDR5, 256GB SSD, AMD Radeon\u2122 610M, Free DOS, Warm Gold",
+      "Price": 1649.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/53878/53877327/images/res_b3beae1e95adf63558f22abaef1ca7c4.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-v15-g4-iru-cu-procesor-int-4a1b1d",
+      "Title": "Laptop Lenovo V15 G4 IRU cu procesor Intel\u00ae Core\u2122 i5-13420H pana la 4.6GHz",
+      "Description": "15.6\" Full HD, IPS, 16GB DDR4 RAM, 512GB SSD, Intel\u00ae UHD Graphics, No OS, Business Black",
+      "Price": 2141.7,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/62513/62512826/images/res_5ed5b3469e174c7ff8f4aee17b5d1435.jpg"
+    },
+    {
+      "SeedId": "laptop-gaming-lenovo-legion-pro-7-16afr1-05ea34",
+      "Title": "Laptop Gaming Lenovo Legion Pro 7 16AFR10H cu procesor AMD Ryzen\u2122 9 9955HX3D pana la 5.4GHz",
+      "Description": "16\" WQXGA, OLED, 240Hz, 64GB DDR5 RAM, 1TB SSD, NVIDIA\u00ae GeForce RTX\u2122 5080 16GB GDDR7, No OS, Eclipse Black",
+      "Price": 16999.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/105060/105059257/images/res_15f85ff0c84d3a033b3fc81070cbe621.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-slim-3-15irh8-cu-p-819922",
+      "Title": "Laptop Lenovo IdeaPad Slim 3 15IRH8 cu procesor Intel\u00ae Core\u2122 i7-13620H pana la 4.9GHz",
+      "Description": "15.6\", Full HD, 16GB LPDDR5 RAM, 512GB SSD, Intel\u00ae UHD Graphics, No OS, Arctic Grey",
+      "Price": 5082.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/66307/66306845/images/res_e4c28c7b0f9d0ea424b97079bad01098.jpg"
+    },
+    {
+      "SeedId": "laptop-asus-vivobook-15-x1502vabq545mxm-bea7a5",
+      "Title": "Laptop ASUS Vivobook 15 X1502VA-BQ545MXM",
+      "Description": "Intel Core i7-13620H, 15.6 inch, RAM 32GB, SSD 512GB, Intel UHD Graphics, No OS, Quiet Blue",
+      "Price": 3345.65,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/89284/89283608/images/res_bf85747a90f3f309123218420a8b12a5.jpg"
+    },
+    {
+      "SeedId": "laptop-apple-macbook-air-13-b5029a",
+      "Title": "Laptop Apple MacBook Air 13\"",
+      "Description": "cu procesor Apple M4, 10 nuclee CPU si 10 nuclee GPU, 24GB RAM, 512GB, Midnight, Tastatura Internationala, Manual RO",
+      "Price": 7599.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/88283/88282977/images/res_a6c650c79a72885951461ac3b97b0380.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-5-2in1-14ial10-cu--d1f9b0",
+      "Title": "Laptop Lenovo IdeaPad 5 2-in-1 14IAL10 cu procesor Intel\u00ae Core\u2122 Ultra 5 225H pana la 4.9GHz",
+      "Description": "14'', WUXGA, OLED, Touch, 16GB LPDDR5x RAM, 1TB SSD, Intel\u00ae Arc\u2122 130T, No OS, Cosmic Blue",
+      "Price": 4349.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/97173/97172824/images/res_8edd260e09be02302478e550cf0307e9.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-slim-5-15arp10-cu--3a92d4",
+      "Title": "Laptop Lenovo IdeaPad Slim 5 15ARP10 cu procesor AMD Ryzen\u2122 7 7735HS pana la 4.75GHz",
+      "Description": "15.3\" WUXGA, IPS, 16GB LPDDR5x RAM, 512GB SSD, AMD Radeon\u2122 680M Graphics, No OS, Seafoam Green",
+      "Price": 2849.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/96346/96345321/images/res_397f6e99aec5d939c6f60e728f527837.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-3-17alc6-cu-proces-c8fd7e",
+      "Title": "Laptop Lenovo IdeaPad 3 17ALC6 cu procesor AMD Ryzen\u2122 7 5700U pana la 4.3 GHz",
+      "Description": "17.3\", Full HD, IPS, 12GB, 512GB SSD, AMD Radeon\u2122 Graphics, No OS, Arctic Grey",
+      "Price": 5445.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/64317/64316455/images/res_543087cfc0398817a1ae30d5ab70baa9.jpg"
+    },
+    {
+      "SeedId": "laptop-asus-vivobook-15-m1502ya-cu-proce-5df5f3",
+      "Title": "Laptop ASUS Vivobook 15 M1502YA cu procesor AMD Ryzen\u2122 5 7430U pana la 4.3 GHz",
+      "Description": "15.6'', Full HD, IPS, 8GB DDR4, 512GB SSD, AMD Radeon\u2122 Graphics, No OS, Quiet Blue",
+      "Price": 1899.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/69097/69096365/images/res_8ede0853c7a040b5ef7d12ecff405de9.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-3-17aba7-cu-proces-e4b1d2",
+      "Title": "Laptop Lenovo IdeaPad 3 17ABA7 cu procesor AMD Ryzen\u2122 5 5625U pana la 4.3GHz",
+      "Description": "17.3\" HD+, 16GB DDR4 RAM, 512GB SSD, No OS, AMD Radeon\u2122 Graphics, Arctic Grey",
+      "Price": 2149.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/49468/49467829/images/res_e614964e77fb89e1a2bbc074ebb6a86d.jpg"
+    },
+    {
+      "SeedId": "laptop-gaming-asus-tuf-a15-cu-procesor-a-508b53",
+      "Title": "Laptop Gaming ASUS TUF A15 cu procesor AMD Ryzen\u2122 5 7535HS pana la 4.55GHz",
+      "Description": "15.6'', Full HD, 144Hz, IPS, 16GB DDR5 RAM, 512GB SSD, NVIDIA\u00ae GeForce RTX\u2122 2050 4GB GDDR6, No OS, Graphite Black",
+      "Price": 4235.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/64569/64568848/images/res_c2506fcd35ade3b39aadcd1ace4f3508.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-thinkbook-16-g6-irl-cu-pro-ff72c7",
+      "Title": "Laptop Lenovo ThinkBook 16 G6 IRL cu procesor Intel\u00ae Core\u2122 i5-1335U pana la 4.6Ghz",
+      "Description": "16\" WUXGA, IPS, 16GB DDR5, 512GB SSD, Intel\u00ae Iris\u00ae Xe Graphics, No OS, Arctic Grey, 3y Courier or Carry-in",
+      "Price": 8107.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/62857/62856992/images/res_ed638848ee55e07a7da30b230c187b3b.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-slim-3-15iah8-cu-p-b626d6",
+      "Title": "Laptop Lenovo IdeaPad Slim 3 15IAH8 cu procesor Intel\u00ae Core\u2122 i5-12450H pana la 4.4 GHz",
+      "Description": "15.6\", Full HD, 8GB, 512GB SSD, Intel\u00ae UHD Graphics, No OS, Arctic Grey",
+      "Price": 2964.5,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/60900/60899658/images/res_368b54f11b1ab1396336bf7ba5e7a50f.jpg"
+    },
+    {
+      "SeedId": "laptop-acer-travelmate-p41652-cu-proceso-eefd05",
+      "Title": "Laptop Acer Travelmate P416-52 cu procesor Intel Core i7-1355U",
+      "Description": "16\", WUXGA, 16GB RAM, 1TB SSD, Windows 11 Pro, Slate Blue",
+      "Price": 3098.89,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/112671/112670871/images/res_88b712bf6d5fb8af410d53cba4536511.png"
+    },
+    {
+      "SeedId": "laptop-asus-vivobook-15-a1502va-cu-proce-a26d0c",
+      "Title": "Laptop ASUS Vivobook 15 A1502VA cu procesor Intel\u00ae Core\u2122 i5-13420H pana la 4.6GHz",
+      "Description": "15.6'', Full HD, IPS, 16GB DDR4 RAM, 512GB SSD, Intel\u00ae UHD Graphics, No OS, Quiet Blue",
+      "Price": 2699.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/71535/71534193/images/res_dfbfff394383838d66795aa5c9cdb3ec.jpg"
+    },
+    {
+      "SeedId": "laptop-156-cu-procesor-intel-alder-lake--6f7e5a",
+      "Title": "Laptop 15.6\" cu procesor Intel Alder Lake N95",
+      "Description": "16GB RAM, 512GB SSD, 1920*1080 FHD, Windows 11 Pro, Intel\u00ae UHD Graphics 600, 5GHz Wifi, 5000mAh, Argintiu",
+      "Price": 1499.19,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/100505/100504073/images/res_c629a375a88b6a408c073b420ad36584.jpg"
+    },
+    {
+      "SeedId": "laptop-gaming-lenovo-loq-15iax9e-cu-proc-297d64",
+      "Title": "Laptop Gaming Lenovo LOQ 15IAX9E cu procesor Intel\u00ae Core\u2122 i5-12450HX pana la 4.4GHz",
+      "Description": "15.6\" Full HD, IPS, 144Hz, 16GB DDR5 RAM, 1TB SSD, NVIDIA\u00ae GeForce RTX\u2122 2050 4GB GDDR6, No OS, Luna Grey",
+      "Price": 4477.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/83409/83408974/images/res_93f9d0a7257fc7ca97c2cddfa3bacc51.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-v15ada-cu-procesor-amd-ryz-77b35b",
+      "Title": "Laptop Lenovo V15-ADA cu procesor AMD Ryzen 5 3500U pana la 3.70 GHz",
+      "Description": "15.6\", Full HD, 8GB, 512GB SSD, Radeon Vega Graphics, Free DOS, Iron Grey",
+      "Price": 3146.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/30757/30756951/images/res_d4534007e71af3ffd39fb0d6d7d5ec91.jpg"
+    },
+    {
+      "SeedId": "laptop-asus-vivobook-go-15-e510ka-cu-pro-c117b6",
+      "Title": "Laptop ASUS Vivobook Go 15 E510KA cu procesor Intel\u00ae Celeron\u00ae N4500 pana la 2.8GHz",
+      "Description": "15.6'', Full HD, 8GB DDR4 RAM, 512GB SSD, Intel\u00ae HD Graphics, No OS, Peacock Blue",
+      "Price": 1299.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/100907/100906729/images/res_3266c6c8c3fc2b4fe7e04859626e7ae6.png"
+    },
+    {
+      "SeedId": "laptop-lenovo-thinkbook-15-g2-itl-cu-pro-97b781",
+      "Title": "Laptop Lenovo ThinkBook 15 G2 ITL cu procesor Intel\u00ae Core\u2122 i7-1165G7 pana la 4.70 GHz",
+      "Description": "15.6\", Full HD, IPS, 16GB, 512GB SSD, Intel\u00ae Iris\u00ae Xe Graphics, No OS, Mineral Grey",
+      "Price": 6534.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/36189/36188113/images/res_011b01362f22c5e9d89a070c57ce94db.jpg"
+    },
+    {
+      "SeedId": "laptop-asus-156-vivobook-15-x1502va-46976b",
+      "Title": "Laptop ASUS 15.6'' Vivobook 15 X1502VA",
+      "Description": "FHD, Procesor Intel\u00ae Core\u2122 i7-13620H (24M Cache, up to 4.90 GHz), 10 cores, 24GB DDR4, 500 GB SSD, Intel UHD, No OS, Quiet Blue",
+      "Price": 4584.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/85160/85159776/images/res_db5cea6c70fd059ab3817f7b0507afa6.jpg"
+    },
+    {
+      "SeedId": "laptop-14-cu-procesor-intel-celeron-n412-6e8b14",
+      "Title": "Laptop 14\" cu procesor Intel Celeron N4120",
+      "Description": "8GB RAM, 512GB SSD, 1920*1080 FHD, Windows 11 Pro, Intel\u00ae UHD Graphics 600, 5GHz Wifi, 5000mAh, Argintiu",
+      "Price": 1399.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/100505/100504061/images/res_9ebf4d05779d19e8b4e0b5233460bb39.jpg"
+    },
+    {
+      "SeedId": "notebook-gaming-gigabyte-a16-6cc511",
+      "Title": "Notebook Gaming GIGABYTE A16",
+      "Description": "3VHK3EE893SD, 16\", AMD Ryzen 7 260, NVIDIA GeForce RTX 5060 (8GB GDDR7), 16GB 4800MHz (1x16GB) DDR5, WIFI6E, 512GB SSD",
+      "Price": 5602.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/100457/100456474/images/res_04583bf95e1b17a3b7a3841ec0d000ab.jpg"
+    },
+    {
+      "SeedId": "laptop-microsoft-surface-pro-11-cu-proce-ecf199",
+      "Title": "Laptop Microsoft Surface Pro 11 cu procesor Qualcomm\u00ae Snapdragon\u00ae X Plus pana la 3.4GHz",
+      "Description": "13'', 2.8K, 16GB DDR5 RAM, 512GB SSD, Qualcomm\u00ae Adreno\u2122 GPU, Windows 11 Home, Black",
+      "Price": 6836.5,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/82776/82775501/images/res_b664ee0f99291d56df69b7cb253c1d24.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-slim-3-15irh10-cu--56942d",
+      "Title": "Laptop Lenovo IdeaPad Slim 3 15IRH10 cu procesor Intel\u00ae Core\u2122 i7-13620H pana la 4.9GHz",
+      "Description": "15.3\" WUXGA, IPS, 16GB DDR5 RAM, 1TB SSD, Intel\u00ae UHD Graphics, No OS, METAL, Cosmic Blue",
+      "Price": 3049.99,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/92504/92503752/images/res_f3af38a60ad840f598cda610d92185d6.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-thinkbook-16-g6-irl-cu-pro-de811a",
+      "Title": "Laptop Lenovo ThinkBook 16 G6 IRL cu procesor Intel\u00ae Core\u2122 i7 -13700H pana la 5.0GHz",
+      "Description": "16\", WUXGA, IPS, 16GB DDR5, 1TB SSD, Intel\u00ae UHD Graphics, No OS, Arctic Grey, 3Y Courier or Carry-in upgrade",
+      "Price": 6050.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/63836/63835921/images/res_1136d626366098214285d81799f62ea1.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-ideapad-3-17iau7-cu-proces-aef678",
+      "Title": "Laptop Lenovo IdeaPad 3 17IAU7 cu procesor Intel\u00ae Core\u2122 i5-1235U pana la 4.4 GHz",
+      "Description": "17.3\", HD+, 16GB, 512GB SSD, Intel\u00ae Iris\u00ae Xe Graphics, No OS, Arctic Grey",
+      "Price": 4114.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/64317/64316454/images/res_ac8b79ea2adf6d924695e2af3b2affd0.jpg"
+    },
+    {
+      "SeedId": "laptop-asus-vivobook-15-a1502va-cu-proce-dd8ca4",
+      "Title": "Laptop ASUS Vivobook 15 A1502VA cu procesor Intel\u00ae Core\u2122 i7-13620H pana la 4.9GHz",
+      "Description": "15.6'', Full HD, IPS, 16GB DDR4 RAM, 512GB SSD, Intel\u00ae UHD Graphics, No OS, Quiet Blue",
+      "Price": 4356.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/88289/88288262/images/res_03d6571b93a32c3e4c84eabec24fa0b1.jpg"
+    },
+    {
+      "SeedId": "laptop-lenovo-gaming-legion-pro-5-16irx1-6d2ddb",
+      "Title": "Laptop Lenovo Gaming Legion Pro 5 16IRX10 cu procesor Intel\u00ae Core\u2122 i9-14900HX pana la 5.8GHz",
+      "Description": "16\" WQXGA, IPS, 240Hz, 32GB DDR5 RAM, 1TB SSD, NVIDIA\u00ae GeForce RTX\u2122 5060 8GB GDDR7, No OS, Eclipse Black, 3y on-site Premium Care",
+      "Price": 9075.0,
+      "Stock": 100,
+      "CategoryName": "Electronice",
+      "Status": 1,
+      "ImagePath": "https://s13emagst.akamaized.net/products/97173/97172826/images/res_1018d8d9667c76df07b5a80843e4d290.jpg"
+    }
+  ]
+}
